@@ -1,0 +1,32 @@
+{
+    "name": "segundo-desafio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lopes-infinity/Compasso.UOL_Sprint2_API.git"
+    },
+    "bugs": {
+        "url": "https://github.com/lopes-infinity/Compasso.UOL_Sprint2_API.git"
+    },
+    "homepage": "https://github.com/lopes-infinity/Compasso.UOL_Sprint2_API.git",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "consign": "^0.1.6",
+        "express": "^4.18.1",
+        "moment": "^2.29.3",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16"
+    }
+}
